@@ -1,7 +1,7 @@
 ![image](https://github.com/mytechnotalent/dc540-0x00006/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
 
 # dc540-0x00006
-DC540 hacking challenge 0x00006 [UNKNOWN ARCHITECTURE CTF].
+DC540 hacking challenge 0x00006 [UNKNOWN CTF].
 
 <br>
 
