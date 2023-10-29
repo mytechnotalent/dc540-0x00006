@@ -22,7 +22,7 @@ DC540 hacking challenge 0x00006 [UNKNOWN CTF].
 <br>
 
 ## BRIEF
-It has been 2 years since the `сообщение` binary has landed at the Khanty-Mansiysk Dark Eyes facility.  The world has slowly begun it's decent into madness.  The war in Ukraine has broken out and the Middle East as slowly begun to destabilize.  No one has seen or heard from the ANGLES OF DEATH since it has all begun.
+It has been 2 years since the `сообщение` binary has landed at the Khanty-Mansiysk Dark Eyes facility.  The world has slowly begun it's decent into madness.  The war in Ukraine has broken out and the Middle East as slowly begun to destabilize.  No one has seen or heard from the ANGELS OF DEATH since it has all begun.
 The world has, but since forgotten their ways.  Will this be the end... <br><br>
 P4r4d0x: "SPUD!  SPUD!  We found it!  We found what needs to be done for all!" <br><br>
 Spud: "Woah P4r4d0x slow down, what did you find?" <br><br> 
