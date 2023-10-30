@@ -54,7 +54,7 @@ P4r4d0x: "I have no idea, but we best start from the basics.  Look the REDAH Mas
 <br>
 
 ## MISSION
-You have been selected by the DC540 ANGLES OF DEATH to be the Reverse Engineer on this mission. Your task is to reverse engineer the `Жнец.bin` binary. Report the flag back to, "The Architect" with your results by sending a private Discord DM to Kevin Thomas. 
+You have been selected by the DC540 ANGELS OF DEATH to be the Reverse Engineer on this mission. Your task is to reverse engineer the `Жнец.bin` binary. Report the flag back to, "The Architect" with your results by sending a private Discord DM to Kevin Thomas. 
 
 ## HINT 
 "You will know you have the flag when you see '... or maybe not'".
