@@ -1,5 +1,9 @@
 ![image](https://github.com/mytechnotalent/dc540-0x00006/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
 
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+
+<br>
+
 # dc540-0x00006
 DC540 hacking challenge 0x00006 [UNKNOWN CTF].
 
@@ -21,11 +25,7 @@ DC540 hacking challenge 0x00006 [UNKNOWN CTF].
 
 <br>
 
-## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
-
-<br>
-
-## BRIEF
+# BRIEF
 It has been 2 years since the `сообщение` binary has landed at the Khanty-Mansiysk Dark Eyes facility.  The world has slowly begun it's decent into madness.  The war in Ukraine has broken out and the Middle East as slowly begun to destabilize.  No one has seen or heard from the ANGELS OF DEATH since it has all begun.
 The world has, but since forgotten their ways.  Will this be the end... <br><br>
 P4r4d0x: "SPUD!  SPUD!  We found it!  We found what needs to be done for all!" <br><br>
@@ -36,7 +36,7 @@ Mainframe: (sounds of paper printing) <br><br>
 Bets: "What is this?" <br><br>
 P4r4d0x: "Crap it's more, plans!" <br><br>
 Bets: "What plans?  And who are you?" <br><br>
-P4r4d0x: "Sorry the name is P4r4d0x, I'm one of the REDAH Masters sent to help out with the `сообщение` binary.  I just cracked it this morning, and set up this system to capture new in coming messages, and you're holding the latest one." <br><br>
+P4r4d0x: "Sorry the name is P4r4d0x, I'm one of the REDAH Masters sent to help out with the `сообщение` binary.  I just cracked it this morning, and set up this system to capture new in coming messages, and you're holding the latest one." <br>
 Bets: "Ah I must have missed you.  Good job, but as Spud said it's a bit too late, but lets at least see what they said...  Spud, get Z now this is not good!" <br><br>
 Spud: "What could be so bad?" <br><br>
 Bets: "No time just get Z now!" <br><br>
@@ -55,8 +55,6 @@ Bets: "No time for that.  Spud take P4r4d0x and go figure out what this binary i
 Spud: "Damn this isn't good, we can't take another Ukraine level attack or worse.  P4r4d0x, you have any idea how to attack this thing?" <br><br>
 P4r4d0x: "I have no idea, but we best start from the basics.  Look the REDAH Masters have arrived maybe one of them will have insight into this potentially ancient technology." <br><br>
 
-<br>
-
 ## MISSION
 You have been selected by the DC540 ANGELS OF DEATH to be the Reverse Engineer on this mission. Your task is to reverse engineer the `Жнец.bin` binary. Report the flag back to, "Master Assembler" with your results by sending a private Discord DM to @P4R4D0X in the DC540 Discord channel listed above.
 
@@ -65,5 +63,5 @@ You have been selected by the DC540 ANGELS OF DEATH to be the Reverse Engineer o
 
 <br>
 
-## License
+# License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
